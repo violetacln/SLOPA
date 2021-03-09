@@ -413,6 +413,16 @@ auto_ml@leaderboard %>%
 # and still experimenting with stacked models and evaluation ...
 
 
+# -------------------- Part 4: interpretability of models ----------------------
+# use measures like partial dependence plots, individual conditional expectation, 
+# accumulated local effects, feature interaction, shapley values, etc 
+# (see iml - package for example)
+
+# reference for interpretability:
+# https://christophm.github.io/interpretable-ml-book/ 
+
+
+
 #-------------------------------------------------------------------------------
 #-------------------------------------------------------------------------
 
