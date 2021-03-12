@@ -15,6 +15,8 @@
 # part 2: use stacks-package, for fitting stacked models
 # part 3: use h20 package, for fitting stacked models 
 #         and for automated stack selection
+# part 4: interpretability, e.g. by using iml package
+# part 5: measuring uncertainty
 
 
 
@@ -422,6 +424,8 @@ auto_ml@leaderboard %>%
 # https://christophm.github.io/interpretable-ml-book/ 
 
 
+# ------------------- Part 5: measuring uncertainty of classifiers --------------
+# ...(to add)
 
 #-------------------------------------------------------------------------------
 #-------------------------------------------------------------------------
