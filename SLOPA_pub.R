@@ -426,7 +426,10 @@ auto_ml@leaderboard %>%
 
 # ------------------- Part 5: measuring uncertainty of classifiers --------------
 # ...(to add)
-
+# reminder: misclassification costs need to be taken into account 
+# when evaluating performance/uncertainty,
+# even when costs are uncertain but not completely unknown
+# 
 #-------------------------------------------------------------------------------
 #-------------------------------------------------------------------------
 
