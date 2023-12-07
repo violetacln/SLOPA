@@ -6,4 +6,5 @@ Here we share our workflows/R-scripts for using classifiers/ensembles and evalua
 Our original nickname for this project: "the children in the candy bar", since so many algorithms and thus R-packages are available for solving the problem :)
 
 The code for a random forest classification of individuals, optimised for performance measures and undersampling when using unbalanced training data can be found at: https://github.com/MargheritaZ/ML-Census2021. Two papers presented at NTTS-2021 (https://coms.events/NTTS2021/en/) and NSM-2022 (https://www.nsm2022.is/) conferences are shared here as well.
+Our paper in the SJ-IAOS (2023) is open access and uses the code shown in ML_classif_forSJIAOS.R. 
 
