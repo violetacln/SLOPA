@@ -21,7 +21,7 @@ library(ggplot2)
 library(iml)
 ###------------------------------ PART 0: data ---------------------------------------------------###
 
-channel <- odbcDriverConnect("DRIVER=SQL Server; SERVER=ZEUS")
+channel <- odbcDriverConnect("DRIVER=SQL Server; SERVER=ZZZZZ")
 
 df<-sqlQuery(channel,"select * from XXXXX", stringsAsFactors=FALSE ) 
 
